@@ -1,0 +1,1 @@
+This is a cart that add fruits to a supmermarked cashier.
